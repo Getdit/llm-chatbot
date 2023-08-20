@@ -1,0 +1,78 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="91" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="25">
+            <item index="0" class="java.lang.String" itemvalue="localflavor" />
+            <item index="1" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="2" class="java.lang.String" itemvalue="bootstrap4" />
+            <item index="3" class="java.lang.String" itemvalue="django-bootstrap-datepicker-plus" />
+            <item index="4" class="java.lang.String" itemvalue="zipp" />
+            <item index="5" class="java.lang.String" itemvalue="pkg-resources" />
+            <item index="6" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="7" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="8" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="9" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="10" class="java.lang.String" itemvalue="django-bootstrap4" />
+            <item index="11" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="12" class="java.lang.String" itemvalue="django-localflavor" />
+            <item index="13" class="java.lang.String" itemvalue="django-jazzmin" />
+            <item index="14" class="java.lang.String" itemvalue="urllib3" />
+            <item index="15" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="16" class="java.lang.String" itemvalue="django" />
+            <item index="17" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="18" class="java.lang.String" itemvalue="qrcode" />
+            <item index="19" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="20" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="21" class="java.lang.String" itemvalue="reportlab" />
+            <item index="22" class="java.lang.String" itemvalue="django-allauth" />
+            <item index="23" class="java.lang.String" itemvalue="pdfrw" />
+            <item index="24" class="java.lang.String" itemvalue="django-celery" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="core.views.PermissionRequired.request" />
+          <option value="core.tests.group_flow_pattern_set.GroupFlowPatternTest.group" />
+          <option value="core.tests.group_flow_pattern_set.GroupFlowPatternTest.project_pattern" />
+          <option value="core.tests.group_flow_pattern_set.CreatingGroupPatternWithSameGroupAndProjectPattern.group" />
+          <option value="core.tests.group_flow_pattern_set.CreatingGroupPatternWithSameGroupAndProjectPattern.project_pattern" />
+          <option value="core.tests.group_flow_pattern_set.CreatingFlowStepPattern.group" />
+          <option value="core.tests.group_flow_pattern_set.CreatingFlowStepPattern.project_pattern" />
+          <option value="core.tests.group_flow_pattern_set.CreatingGroupDependencyPattern.project_pattern" />
+          <option value="core.tests.group_flow_pattern_set.CreatingGroupDependencyPattern.group_01" />
+          <option value="core.tests.group_flow_pattern_set.CreatingGroupDependencyPattern.group_flow_pattern" />
+          <option value="core.tests.group_flow_pattern_set.CreatingGroupDependencyPattern.group" />
+          <option value="core.tests.group_flow_pattern_set.CreatingGroupDependencyPattern.group_02" />
+          <option value="core.tests.group_flow_pattern_set.GroupDependencyPatternTest.project_pattern" />
+          <option value="core.tests.group_flow_pattern_set.GroupDependencyPatternTest.group_flow_pattern_01" />
+          <option value="core.tests.group_flow_pattern_set.GroupDependencyPatternTest.group_flow_pattern_02" />
+          <option value="core.tests.group_flow_pattern_set.GroupDependencyPatternTest.group_01" />
+          <option value="core.tests.group_flow_pattern_set.GroupDependencyPatternTest.group_02" />
+          <option value="core.tests.project_labels.PatternProjectLabels.project" />
+          <option value="core.tests.project_labels.PatternProjectLabels.group_flow_pattern" />
+          <option value="core.tests.project_labels.PatternProjectLabels.flow_step_pattern_2" />
+          <option value="django.core.handlers.wsgi.WSGIRequest.user" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

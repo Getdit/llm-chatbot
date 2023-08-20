@@ -1,0 +1,5 @@
+langchain
+pyproject-toml
+chromadb
+numpy==1.23.5
+tiktoken
